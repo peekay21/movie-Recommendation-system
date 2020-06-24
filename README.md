@@ -1,2 +1,3 @@
 # Movie Recommendation System using Neural Networks
-Machine Learning and Deep Learning Projects
+For this project, I use the MovieLens Data sets.
+
